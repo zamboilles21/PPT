@@ -1,1 +1,9 @@
-A MikroTik egy lett vállalat, amelyet 1996-ban alapítottak routerek és vezeték nélküli internetszolgáltatói rendszerek fejlesztésére. A MikroTik ma már a világ legtöbb országában hardvert és szoftvert biztosít az internetkapcsolathoz. Ipari szabványos PC-hardverek és komplett forgalomírányítási rendszerek használatában szerzett tapasztalata lehetõvé tette számukra, hogy 1997-ben létrehozzák a RouterOS szoftverrendszert, amely kiterjedt stabilitást, vezérlést és rugalmasságot biztosít mindenféle adatinterfészhez és forgalomírányításhoz. 2002-ben úgy döntöttek, hogy saját hardvert készítenek, és megszületett a RouterBOARD márka. Cégünk Rigában, Lettország fõvárosában található, és több mint 280 alkalmazottat foglalkoztat.
+A MikroTik egy lett vállalat, amelyet 1996-ban alapítottak routerek és vezeték nélküli internetszolgáltatói rendszerek fejlesztésére. A MikroTik ma már a világ legtöbb országában hardvert és szoftvert biztosít az internetkapcsolathoz. Ipari szabványos PC-hardverek és komplett forgalomírányítási rendszerek használatában szerzett tapasztalata lehetõvé tette számukra, hogy 1997-ben létrehozzák a RouterOS szoftverrendszert, amely kiterjedt stabilitást, vezérlést és rugalmasságot biztosít mindenféle adatinterfészhez és forgalomírányításhoz. 2002-ben úgy döntöttek, hogy saját hardvert készítenek, és megszületett a RouterBOARD márka.A cég Rigában, Lettország fõvárosában található, és több mint 280 alkalmazottat foglalkoztat.
+
+Program olyan oktatási intézmények számára létesült, mint pl 
+egyetemek, mûszaki iskolák, fõiskolák,
+szakiskolák és egyéb oktatási intézmények.
+
+
+Több mint 500 egyetem és 750 oktató
+ már csatlakoztak.
